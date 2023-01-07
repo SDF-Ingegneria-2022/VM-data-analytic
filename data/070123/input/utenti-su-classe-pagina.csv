@@ -1,0 +1,69 @@
+# ----------------------------------------
+# Esportazione CSV rapporto
+# Account: smooth-poll-vota-meglio
+# Proprietà: votameglio-produzione
+# ----------------------------------------
+# 
+# Data di inizio: 20221210
+# Data di fine: 20230106
+N° giorno,Crea e Vota Sondaggi | Vota Meglio,Gestione sondaggi | Vota Meglio,Voto Giudizio Maggioritario | Vota Meglio,Risultati Giudizio Maggioritario | Vota Meglio,Conferma voto Giudizio Maggioritario | Vota Meglio
+0000,0,0,0,0,0
+0001,0,0,0,0,0
+0002,0,0,0,0,0
+0003,0,0,0,0,0
+0004,0,0,0,0,0
+0005,0,0,0,0,0
+0006,0,0,0,0,0
+0007,0,0,0,0,0
+0008,0,0,0,0,0
+0009,0,0,0,0,0
+0010,0,0,0,0,0
+0011,0,0,0,0,0
+0012,0,0,0,0,0
+0013,0,0,0,0,0
+0014,0,0,0,0,0
+0015,0,0,0,0,0
+0016,0,0,0,0,0
+0017,0,0,0,0,0
+0018,0,0,0,0,0
+0019,0,0,0,0,0
+0020,0,0,0,0,0
+0021,0,0,0,0,0
+0022,0,0,0,0,0
+0023,0,0,0,0,0
+0024,0,0,0,0,0
+0025,105,24,36,10,7
+0026,83,16,4,8,1
+0027,151,19,18,12,10
+
+# Tutti gli utenti
+# Data di inizio: 20221210
+# Data di fine: 20230106
+
+Titolo pagina e nome schermata,Visualizzazioni
+Crea e Vota Sondaggi | Vota Meglio,339
+Gestione sondaggi | Vota Meglio,59
+Voto Giudizio Maggioritario | Vota Meglio,58
+Risultati Giudizio Maggioritario | Vota Meglio,30
+Conferma voto Giudizio Maggioritario | Vota Meglio,18
+Voto Opzione Singola | Vota Meglio,16
+Conferma voto Opzione Singola | Vota Meglio,7
+Crea nuovo sondaggio | Vota Meglio,7
+Risultati Opzione Singola | Vota Meglio,7
+Visualizza i risultati | Vota Meglio,7
+
+# Tutti gli utenti
+# Data di inizio: 20221210
+# Data di fine: 20230106
+
+Titolo pagina e nome schermata,Visualizzazioni,Utenti,Visualizzazioni per utente,Durata media del coinvolgimento,Conteggio eventi,Conversioni,Entrate totali
+Crea e Vota Sondaggi | Vota Meglio,339,52,6.519230769230769,85.76923076923077,991,0,0
+Gestione sondaggi | Vota Meglio,59,21,2.8095238095238093,21.61904761904762,158,0,0
+Voto Giudizio Maggioritario | Vota Meglio,58,26,2.230769230769231,43.69230769230769,193,0,0
+Risultati Giudizio Maggioritario | Vota Meglio,30,18,1.6666666666666667,28.77777777777778,71,0,0
+Conferma voto Giudizio Maggioritario | Vota Meglio,18,14,1.2857142857142858,8.071428571428571,49,0,0
+Voto Opzione Singola | Vota Meglio,16,9,1.7777777777777777,6,53,0,0
+Conferma voto Opzione Singola | Vota Meglio,7,5,1.4,2.6,20,0,0
+Crea nuovo sondaggio | Vota Meglio,7,6,1.1666666666666667,72.16666666666667,18,0,0
+Risultati Opzione Singola | Vota Meglio,7,6,1.1666666666666667,6.333333333333333,21,0,0
+Visualizza i risultati | Vota Meglio,7,5,1.4,8.4,20,0,0
